@@ -163,3 +163,4 @@ pw-env/
 
 # llm debug
 examples/ui/data/*
+**/credentials.json
